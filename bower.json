@@ -1,0 +1,12 @@
+{
+  "name": "angular-prototype-seed",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "angular": "~1.2.5",
+    "json3": "~3.2.4",
+    "angular-route": "~1.2.5",
+    "bootstrap": "~3.0.0",
+    "font-awesome": "~3.2.1"
+  }
+}
